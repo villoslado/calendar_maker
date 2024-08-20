@@ -23,4 +23,4 @@ Once the inputs are provided, the program will generate a neatly formatted calen
 To run the program, simply execute the Python script in your terminal:
 
 ```bash
-python calendar_generator.py
+python calendar_maker.py
