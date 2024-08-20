@@ -16,7 +16,7 @@ The program will prompt you for the following:
 1. **Year**: You’ll be asked to enter a year (e.g., 2024).
 2. **Month**: Next, you’ll be prompted to enter a month number (e.g., 1 for January, 12 for December).
 
-Once the inputs are provided, the program will generate a neatly formatted calendar for the given month and year and display it on the screen. The calendar is also saved as a `.txt` file, named according to the year and month.
+Once the inputs are provided, the program will generate a neatly formatted calendar for the given month and year and display it on the screen.
 
 ## Running the Program
 
